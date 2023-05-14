@@ -11,6 +11,7 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 
 ## Contents
 - [Libraries](#libraries)
+- [Bots](#Bots)
 - [Extensions](#Extensions)
 - [Services](#services)
 
@@ -23,6 +24,9 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [traPtitech/traq-bot](https://github.com/traPtitech/traq-bot) - traQ HTTP BOT用Goライブラリ
 - [traPtitech/traq-ws-bot](https://github.com/traPtitech/traq-ws-bot) - traQ WebSocket BOT用Goライブラリ
 - [motoki317/traq-ws-bot4j](https://github.com/motoki317/traq-ws-bot4j) - traQ WebSocket BOT用Javaライブラリ
+
+## Bots
+- [motoki317/bot_converter](https://github.com/motoki317/bot_converter) - traQ webhook converter bot
 
 ## Extensions
 <!-- better-traqみたいなやつ -->
