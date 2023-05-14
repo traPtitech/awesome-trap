@@ -14,7 +14,11 @@
 - [Services](#services)
 
 ## Libraries
+- [go-traq](https://github.com/traPtitech/go-traq) - Go client library for the traQ API.
+- [node-traq](https://github.com/traPtitech/node-traq) - Node.js client library for the traQ API.
 - [swift-traq](https://github.com/traPtitech/swift-traq) - Swift client library for the traQ API.
+- [traq-bot](https://github.com/traPtitech/traq-bot) - traQ HTTP BOT用Goライブラリ
+- [traq-ws-bot](https://github.com/traPtitech/traq-ws-bot) - traQ WebSocket BOT用Goライブラリ
 
 ## Extensions
 <!-- better-traqみたいなやつ -->
