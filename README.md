@@ -1,5 +1,5 @@
 # Awesome traP
-A curated list of awesome libraries, extensions and software from Digital Creators Club traP.
+A curated list of awesome libraries, extensions and software from [Digital Creators Club traP](https://trap.jp/).
 
 ## Contribution guide
 
