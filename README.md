@@ -33,9 +33,9 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [motoki317/traq-ws-bot4j](https://github.com/motoki317/traq-ws-bot4j) - traQ WebSocket BOT用Javaライブラリ
 - [SSlime-s/traq-ws-bot-rs](https://github.com/SSlime-s/traq-ws-bot-rs) - traQ WebSocket BOT用Rustライブラリ
 - [H1rono/traq-bot-http-rs](https://github.com/H1rono/traq-bot-http-rs) - traQ HTTP BOT用Rustライブラリ
-- [ras0q/traq-oauth2](https://github.com/ras0q/traq-oauth2) - OAuth2 authentication in traQ
-- [ras0q/traq-writer](https://github.com/ras0q/traq-writer) - Post messages to traQ via webhook.
-- [ras0q/traq-chat](https://github.com/ras0q/traq-chat) - Make creating traQ chat-bot easier.
+- [ras0q/traq-oauth2](https://github.com/ras0q/traq-oauth2) - OAuth2 authentication in traQ. (Go)
+- [ras0q/traq-writer](https://github.com/ras0q/traq-writer) - Post messages to traQ via webhook. (Go)
+- [ras0q/traq-chat](https://github.com/ras0q/traq-chat) - Make creating traQ chat-bot easier. (Go)
 
 ## Bots
 
