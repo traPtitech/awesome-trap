@@ -1,4 +1,5 @@
 # Awesome traP
+
 A curated list of awesome libraries, extensions and software from [Digital Creators Club traP](https://trap.jp/).
 
 ## Contribution guide
@@ -10,12 +11,17 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 外部の方も歓迎します！
 
 ## Contents
-- [Libraries](#libraries)
-- [Bots](#Bots)
-- [Extensions](#Extensions)
-- [Services](#services)
+
+- [Awesome traP](#awesome-trap)
+  - [Contribution guide](#contribution-guide)
+  - [Contents](#contents)
+  - [Libraries](#libraries)
+  - [Bots](#bots)
+  - [Extensions](#extensions)
+  - [Services](#services)
 
 ## Libraries
+
 - [traPtitech/go-traq](https://github.com/traPtitech/go-traq) - Go client library for the traQ API.
 - [traPtitech/node-traq](https://github.com/traPtitech/node-traq) - Node.js client library for the traQ API.
 - [traPtitech/swift-traq](https://github.com/traPtitech/swift-traq) - Swift client library for the traQ API.
@@ -28,6 +34,7 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [H1rono/traq-bot-http-rs](https://github.com/H1rono/traq-bot-http-rs) - traQ HTTP BOT用Rustライブラリ
 
 ## Bots
+
 - [motoki317/bot_converter](https://github.com/motoki317/bot_converter) - traQ webhook converter bot
 
 ## Extensions
