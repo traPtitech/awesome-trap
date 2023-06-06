@@ -25,6 +25,7 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [traPtitech/go-traq](https://github.com/traPtitech/go-traq) - Go client library for the traQ API.
 - [traPtitech/node-traq](https://github.com/traPtitech/node-traq) - Node.js client library for the traQ API.
 - [traPtitech/swift-traq](https://github.com/traPtitech/swift-traq) - Swift client library for the traQ API.
+- [traPtitech/rust-traq](https://github.com/traPtitech/rust-traq) - Rust client library for the traQ API.
 - [ras0q/swift-traq-ws](https://github.com/ras0q/swift-traq-ws) - Swift client library for the traQ Websocket API.
 - [motoki317/traq-py](https://github.com/motoki317/traq-py) - Python client library for the traQ API.
 - [motoki317/traq4j](https://github.com/motoki317/traq4j) - Java client library for the traQ API.
