@@ -46,7 +46,8 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [ras0q/bot-introduce-channel](https://github.com/ras0q/bot-introduce-channel) - traQのおすすめチャンネルを紹介するBOT
 
 ## Extensions
-<!-- better-traqみたいなやつ -->
+
+- [JichouP/Better-traQ](https://github.com/JichouP/Better-traQ) - traQ をキーボードのみで操作することを目指して作られた拡張機能
 
 ## Services
 <!-- Qthemeみたいなやつ -->
