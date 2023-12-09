@@ -17,6 +17,7 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
   - [Contents](#contents)
   - [Libraries](#libraries)
   - [Bots](#bots)
+  - [Topics](#topics)
   - [Extensions](#extensions)
   - [Services](#services)
 
@@ -44,6 +45,10 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [motoki317/bot_converter](https://github.com/motoki317/bot_converter) - traQ webhook converter bot
 - [ras0q/traq-wordcloud-bot](https://github.com/ras0q/traq-wordcloud-bot) - 1日のtraQメッセージを集計しWordcloudを作成するBOT
 - [ras0q/bot-introduce-channel](https://github.com/ras0q/bot-introduce-channel) - traQのおすすめチャンネルを紹介するBOT
+
+## Topics
+
+- [traq-bot](https://github.com/topics/traq-bot) - traQ BOTなどが集まるGitHubトピック
 
 ## Extensions
 
