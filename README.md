@@ -48,6 +48,7 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 
 ## Topics
 
+- [traq](https://github.com/topics/traq) - traQ関連ツール・ライブラリなどが集まるGitHubトピック
 - [traq-bot](https://github.com/topics/traq-bot) - traQ BOTなどが集まるGitHubトピック
 
 ## Extensions
