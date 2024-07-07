@@ -29,7 +29,6 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [traPtitech/rust-traq](https://github.com/traPtitech/rust-traq) - Rust client library for the traQ API.
 - [ras0q/swift-traq-ws](https://github.com/ras0q/swift-traq-ws) - Swift client library for the traQ Websocket API.
 - [motoki317/traq-py](https://github.com/motoki317/traq-py) - Python client library for the traQ API.
-- [toshi-pono/aiotraq](https://github.com/toshi-pono/aiotraq) - Async ready Python client library for the traQ API.
 - [motoki317/traq4j](https://github.com/motoki317/traq4j) - Java client library for the traQ API.
 - [traPtitech/traq-bot](https://github.com/traPtitech/traq-bot) - traQ HTTP BOT用Goライブラリ
 - [traPtitech/traq-ws-bot](https://github.com/traPtitech/traq-ws-bot) - traQ WebSocket BOT用Goライブラリ
@@ -38,7 +37,7 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 - [SSlime-s/traq-ws-bot-rs](https://github.com/SSlime-s/traq-ws-bot-rs) - traQ WebSocket BOT用Rustライブラリ
 - [H1rono/traq-bot-http-rs](https://github.com/H1rono/traq-bot-http-rs) - traQ HTTP BOT用Rustライブラリ
 - [detteiu8383/python-traq-bot](https://github.com/detteiu8383/python-traq-bot) - traQ HTTP BOT用Pythonライブラリ
-- [toshi-pono/aiotraq](https://github.com/toshi-pono/aiotraq) - traQ HTTP BOT用Pythonライブラリ
+- [toshi-pono/aiotraq](https://github.com/toshi-pono/aiotraq) - API Client & traQ HTTP BOT用Pythonライブラリ
 - [ras0q/traq-oauth2](https://github.com/ras0q/traq-oauth2) - OAuth2 authentication in traQ. (Go)
 - [ras0q/traq-writer](https://github.com/ras0q/traq-writer) - Post messages to traQ via webhook. (Go)
 - [ras0q/traq-chat](https://github.com/ras0q/traq-chat) - Make creating traQ chat-bot easier. (Go)
