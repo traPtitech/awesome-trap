@@ -59,3 +59,6 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 
 ## Services
 <!-- Qthemeみたいなやつ -->
+
+## TextBooks
+- [abap34/ml-lecture](https://github.com/abap34/ml-lecture) - 機械学習講習会の資料
