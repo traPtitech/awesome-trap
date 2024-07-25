@@ -59,3 +59,8 @@ A curated list of awesome libraries, extensions and software from [Digital Creat
 
 ## Services
 <!-- Qthemeみたいなやつ -->
+
+## TextBooks
+- [abap34/ml-lecture](https://github.com/abap34/ml-lecture) - 機械学習講習会の資料
+- [traPtitech/naro-text](https://github.com/traPtitech/naro-text) - Webエンジニアになろう講習会の資料
+- [traP-jp/pg-basic](https://github.com/traP-jp/pg-basic) - プログラミング基礎講習会の資料
